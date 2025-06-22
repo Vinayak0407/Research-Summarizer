@@ -127,3 +127,7 @@ summary_audio.mp3
 ## 📜 License
 
 MIT License – feel free to use, modify, and distribute.
+
+### 📽 Demo Video
+
+[Click here to watch the demo](https://drive.google.com/file/d/1Yj1nVxYYeU_oEfjJ8NSDIYIISnsXtq5E/view?usp=sharing)
