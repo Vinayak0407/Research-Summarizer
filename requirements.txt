@@ -1,0 +1,14 @@
+openai
+PyPDF2
+python-dotenv
+requests
+pydub
+tqdm
+scikit-learn
+beautifulsoup4
+aiohttp
+transformers
+PyMuPDF
+pyttsx3
+torch
+sentencepiece
